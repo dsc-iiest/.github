@@ -1,6 +1,6 @@
-# Google Developer Student Clubs - IIEST Shibpur
+<h1 align="center"> Google Developer Student Clubs - IIEST Shibpur </h1>
 
-![Brand Logo](./banner.png)
+<img width="100%" src="https://raw.githubusercontent.com/dsc-iiest/.github/main/assets/banner/linkedin.png" />
 
 ## Who are we?
 

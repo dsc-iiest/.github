@@ -24,4 +24,10 @@
 ![square](./assets/square/light-shortname.png)
 ![square](./assets/square/profile.svg)
 
+# SVG-logo
+
+![svg-logo](./assets/svg-logo/gdsc-iiest-all-white.svg)
+![svg-logo](./assets/svg-logo/gdsc-iiest-color-logo-white-text.svg)
+![svg-logo](./assets/svg-logo/gdsc-iiest-horizontal.svg)
+
 ---

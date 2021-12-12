@@ -25,7 +25,7 @@
 
 ## [Intro Session](https://www.youtube.com/watch?v=el7_EkF0UO8)
 
-[![Android Study Jam Intro Session Link](https://img.youtube.com/vi/el7_EkF0UO8/sddefault.jpg)](https://www.youtube.com/watch?v=el7_EkF0UO8)
+[![Android Study Jam Intro Session Link](https://img.youtube.com/vi/el7_EkF0UO8/maxresdefault.jpg)](https://www.youtube.com/watch?v=el7_EkF0UO8)
 
 ## User Input & ListView [[Upcoming, RSVP Here]](https://gdsc.community.dev/e/my727s/)
 

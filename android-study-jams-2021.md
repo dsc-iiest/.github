@@ -29,8 +29,8 @@
 
 ## User Input & ListView [[Upcoming, RSVP Here]](https://gdsc.community.dev/e/my727s/)
 
-Date: 13 December, 2021
-Time: 7:00PM IST
+- Date: 13 December, 2021
+- Time: 7:00PM IST
 
 [![User Interaction & ListView Session](https://pbs.twimg.com/media/FGYfyGHVcAIYu0j?format=jpg&name=medium)](https://gdsc.community.dev/e/my727s/)
 

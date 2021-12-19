@@ -27,13 +27,11 @@
 
 [![Android Study Jam Intro Session Link](https://img.youtube.com/vi/el7_EkF0UO8/maxresdefault.jpg)](https://www.youtube.com/watch?v=el7_EkF0UO8)
 
-## User Input & ListView [[Upcoming, RSVP Here]](https://gdsc.community.dev/e/my727s/)
+## [User Input & ListView](https://www.youtube.com/watch?v=_bGYmCqb9WE)
 
-- Date: 13 December, 2021
-- Time: 7:00PM IST
+[![User Interaction & ListView Session](https://img.youtube.com/vi/_bGYmCqb9WE/maxresdefault.jpg)](https://www.youtube.com/watch?v=_bGYmCqb9WE)
 
-[![User Interaction & ListView Session](https://pbs.twimg.com/media/FGYfyGHVcAIYu0j?format=jpg&name=medium)](https://gdsc.community.dev/e/my727s/)
-
+## Upcoming sessions TBA
 
 ---
 

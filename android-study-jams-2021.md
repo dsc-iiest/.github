@@ -31,8 +31,8 @@
 
 [![User Interaction & ListView Session](https://img.youtube.com/vi/_bGYmCqb9WE/maxresdefault.jpg)](https://www.youtube.com/watch?v=_bGYmCqb9WE)
 
-## Upcoming sessions TBA
+## [Connecting + Fetching Data From Server](https://www.youtube.com/watch?v=2o5sjAvoMPs)
+
+[![Connecting + Fetching Data From Server](https://img.youtube.com/vi/2o5sjAvoMPs/maxresdefault.jpg)](https://www.youtube.com/watch?v=_bGYmCqb9WE)
 
 ---
-
-## This will be updated as we progress through the Jam, enjoy!
